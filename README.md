@@ -1,2 +1,2 @@
-# P-gina-de-Tareas
+# Pagina-de-Tareas
 Trabajo hecho por celulas.
