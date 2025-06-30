@@ -75,26 +75,6 @@ if (!user) {
 }
 ```
 
-## 📂 Estructura Recomendada del Proyecto
-
-```
-/project-root
-│
-├── index.html                # Página de login
-├── /sign_in
-│   └── signin.html           # Página de registro
-├── /main_page
-│   └── index.html            # Página principal protegida
-├── style/
-│   └── *.css                 # Archivos CSS
-└── script.js                 # Lógica principal
-```
-
-## 📌 Notas
-
-- Este sistema es totalmente del lado del cliente y **no es seguro** para entornos reales.
-- Es ideal para aprender `localStorage`, validaciones y lógica básica de autenticación en JavaScript.
-
 ## 🧠 Mejoras Futuras
 
 - Cifrado de contraseñas (ej. con `crypto-js`)
